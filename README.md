@@ -6,6 +6,13 @@ Group Members
 Oluwaseun Akinola - N01717356
 Veevek Auckloo - N01314187
 Mushfika Hossain - N01700086
+
+
+[![Watch the video](https://img.youtube.com/vi/F4CDlkZzlY0/0.jpg)](https://www.youtube.com/watch?v=F4CDlkZzlY0)
+
+
+
+
 1. Project Concept and Purpose
 Purpose
 They are targeted towards individuals multitasking in their daily routine - Students, Office Workers, and Parents looking to organize their schedules.
